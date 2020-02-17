@@ -128,3 +128,16 @@ footer{
     padding: 16px;
     border:1px solid #eee;
 }
+
+/* FUNCIONALIDADES COM JAVASCRIPT */
+
+section.form{
+    transition: all 300ms;
+}
+
+section.form.hide{
+    opacity: 0;
+    visibility: hidden;
+    height: 0;
+    margin-top: -70px;
+}
