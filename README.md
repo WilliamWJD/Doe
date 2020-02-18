@@ -4,7 +4,7 @@
     <h3 align="center">Até 3 vidas com 1 doação</h3>
 
 <p align="center">
-    <a href="https://imgflip.com/gif/3pkdlq"><img src="https://i.imgflip.com/3pkdlq.gif" title="made at imgflip.com"/></a>
+    <img src="./assets/wallpaper-site.png"/>
 </p>
 
 ## 💻 O Projeto
