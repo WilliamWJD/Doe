@@ -48,6 +48,7 @@ form input, form button{
 
 form input{
     background-color: transparent;
+    color:#fff;
 }
 
 form input::placeholder{
